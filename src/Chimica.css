@@ -1,0 +1,119 @@
+#schermataChim{
+    display: flex;
+    width: 670px;
+    height: 670px;
+    background-image: url("img/stanze/chimica.png");
+}
+
+#partenzaChim{
+    margin-left:544px;
+    margin-top: 544px;
+    width: 32px;
+    height: 32px;
+    
+}
+#armadioChim{
+    width:64px;
+    height: 32px;
+    margin-top: 96px;
+    margin-left: -90px;
+}
+#chiave{
+    width: 64px;
+    height: 64px;
+    margin-top: 110px;
+}
+#imgBancone{
+    background-image: url("img/schermate/bancone_chimica.png");
+    margin-left: -50px;
+    width: 576px;
+    height:407px
+}
+
+#armadioChimLock{
+    width:64px;
+    height: 32px;
+    margin-top: 96px;
+    margin-left: -136px;
+}
+
+#armadioChimOpen{
+    width:64px;
+    height: 32px;
+    margin-top: 96px;
+    margin-left: -136px;
+}
+
+#acqua{
+    width: 64px;
+    height: 64px;
+    margin-top: 110px;
+}
+
+#so3{
+    width: 64px;
+    height: 64px;
+    margin-top: 110px;
+    margin-left: 64px;
+}
+#imgArmadioChim{
+    background-image: url("img/schermate/armadioApertoVuoto.png");
+    margin-left: -48px;
+}
+#imgArmadioChimLock{
+    background-image: url("img/schermate/armadioChiuso.png");
+    margin-left: -48px;
+}
+
+#imgArmadioChimOpen{
+    background-image: url("img/schermate/armadioApertoVuoto.png");
+    margin-left: -48px;
+}
+#banconeChim1{
+    width:96px;
+    height: 32px;
+    margin-top: 500px;
+    margin-left: -96px;
+}
+#banconeChim2{
+    
+    width:96px;
+    height: 32px;
+    margin-top: 500px;
+    margin-left: -480px;
+    
+}
+#banconeChim3{
+    width:96px;
+    height: 32px;
+    margin-top: 372px;
+    margin-left: -96px;
+    
+}
+
+#banconeChim4{
+    width:96px;
+    height: 32px;
+    margin-top: 372px;
+    margin-left: 288px;
+    
+}
+
+
+#banconeChim5{
+    width:96px;
+    height: 32px;
+    margin-top: 244px;
+    margin-left: -96px;
+    
+}
+
+#banconeChim6{
+    width:96px;
+    height: 32px;
+    margin-top: 244px;
+    margin-left: -480px;
+    
+}
+
+

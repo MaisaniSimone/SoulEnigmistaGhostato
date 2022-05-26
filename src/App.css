@@ -1,0 +1,140 @@
+
+#imgBancone{
+  background-color: #fff;
+}
+#Contenitore{
+  background-image:url("img/sfondo.jpeg");
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  height: 770px;
+}
+.logo{
+  align-self: center;
+}
+#Zaino{
+  width: 200px;
+  height: 200px;
+  background-color: #fff;
+}
+
+#appOpen{
+  display:flex;
+  flex-direction:column;
+}
+.schermata3{
+  width:457px;
+  height:226px;
+  margin-left:9px;
+  margin-top:55px;
+}
+
+#bancone{
+  width:300px;
+  height: 300px;
+  background-color: #fff;
+}
+#Corridoio{
+  display: none;
+}
+.casella{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+#play{
+  width: 30%;
+  border-radius: 20px;
+  outline: none;
+  cursor: pointer;
+  text-align: center;
+  align-self: center;
+  text-decoration: none;
+  font: bold 12px Arial, Helvetica, sans-serif;
+  color: #fff;
+  padding: 10px 20px;
+  border: solid 1px #0076a3;
+  background: #0095cd;
+
+  }
+  
+  
+ 
+  
+  .dropzone {
+    width: 200px;
+    height: 20px;
+    background: blueviolet;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+
+  #Home{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+  }
+
+  #homeLog{
+    display: none;
+    width: 100%;
+    flex-direction: column;
+  }
+  #login{
+    display: none;
+    width: 100%;
+    flex-direction: column;
+  }
+  #Gioco{
+    display: none;
+  }
+  .option{
+    
+    width: 30%;
+    border-radius: 20px;
+    outline: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    font: bold 12px Arial, Helvetica, sans-serif;
+    color: #fff;
+    padding: 10px 20px;
+    border: solid 1px #0076a3;
+    background: #0095cd;
+    align-self: center;
+    margin-top: 5%;
+    
+    }
+    .back{
+      width: 120px;
+      outline: none;
+      cursor: pointer;
+      text-align: center;
+      text-decoration: none;
+      font: bold 12px Arial, Helvetica, sans-serif;
+      color: #fff;
+      padding: 10px 20px;
+      border: solid 1px #0076a3;
+      background: #0095cd;
+      margin-top: 5%;
+      align-self: center;
+    }
+    .formU{
+      width:50%;
+      align-self: center;
+    }
+    #logU{
+      width:20%;
+      align-self: center;
+    }
+    .pulsanti{
+      align-self: center;
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+    }
+    #pulsantiGioco{
+      align-self: center;
+      display: flex;
+      flex-direction: column;
+    }
