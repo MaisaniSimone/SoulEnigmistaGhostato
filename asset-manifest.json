@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/SoulEnigmistaGhostato/static/css/main.2d5684ec.css",
+    "main.js": "/SoulEnigmistaGhostato/static/js/main.c790cdb4.js",
+    "static/media/imagine.mp3": "/SoulEnigmistaGhostato/static/media/imagine.ad7b91d1f1e6d3fc9882.mp3",
+    "static/media/chimica.png": "/SoulEnigmistaGhostato/static/media/chimica.f622b9248e60f6ac9f60.png",
+    "static/media/5C.png": "/SoulEnigmistaGhostato/static/media/5C.743ffdffa6f0a4d8db85.png",
+    "static/media/registro.png": "/SoulEnigmistaGhostato/static/media/registro.efa05b052114b543145f.png",
+    "static/media/lavagna.png": "/SoulEnigmistaGhostato/static/media/lavagna.f34822f7abdabc493673.png",
+    "static/media/appBlocc.png": "/SoulEnigmistaGhostato/static/media/appBlocc.8e2126d1d922cfc62f69.png",
+    "static/media/armadioApertoVuoto.png": "/SoulEnigmistaGhostato/static/media/armadioApertoVuoto.6694ff67e39a7ad805bf.png",
+    "static/media/logo.png": "/SoulEnigmistaGhostato/static/media/logo.b6c38988fdc85fa2e4a4.png",
+    "static/media/bancone_chimica.png": "/SoulEnigmistaGhostato/static/media/bancone_chimica.dbdfe74e03c727f77fa4.png",
+    "static/media/baker3.png": "/SoulEnigmistaGhostato/static/media/baker3.f9965bb65c30cc3189c8.png",
+    "static/media/sfondo.jpeg": "/SoulEnigmistaGhostato/static/media/sfondo.90310dea4cf51b01df02.jpeg",
+    "static/media/baker1.png": "/SoulEnigmistaGhostato/static/media/baker1.915e1b5f85dc5a62383c.png",
+    "static/media/baker2.png": "/SoulEnigmistaGhostato/static/media/baker2.628e1f1b5bbd9973f9e1.png",
+    "static/media/corridoio.png": "/SoulEnigmistaGhostato/static/media/corridoio.59e640bf2dab92a8092b.png",
+    "static/media/armadioChiuso.png": "/SoulEnigmistaGhostato/static/media/armadioChiuso.5c607a5e0090e0c2c609.png",
+    "static/media/armadioCod.jpeg": "/SoulEnigmistaGhostato/static/media/armadioCod.2469992e5d183d49dfa8.jpeg",
+    "static/media/computer.jpg": "/SoulEnigmistaGhostato/static/media/computer.bf6fa68f417899e066fb.jpg",
+    "index.html": "/SoulEnigmistaGhostato/index.html",
+    "main.2d5684ec.css.map": "/SoulEnigmistaGhostato/static/css/main.2d5684ec.css.map",
+    "main.c790cdb4.js.map": "/SoulEnigmistaGhostato/static/js/main.c790cdb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d5684ec.css",
+    "static/js/main.c790cdb4.js"
+  ]
+}
